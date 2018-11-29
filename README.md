@@ -5,6 +5,7 @@ TODO:
 - reply Answer
 - multiple Person Chat
 - "call" functionality
+- Typescript-version-of for Angular6
 
 <img src="https://github.com/chooomedia/gridChat/blob/v0.3/gridchat_beta.gif" alt="gif" />
 
